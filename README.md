@@ -1,2 +1,4 @@
 # Primeiro passo
- Meu primeiro repositório
+ Meu primeiro repositório.
+
+Estou criando meu primeiro repositório.
